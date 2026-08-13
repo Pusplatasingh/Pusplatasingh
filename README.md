@@ -93,9 +93,9 @@
 <img src="https://streak-stats.demolab.com/?user=Pusplatasingh&theme=dark&hide_border=false" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Pusplatasingh&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
+</p> -->
 
 ---
 
