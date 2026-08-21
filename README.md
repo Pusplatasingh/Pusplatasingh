@@ -51,13 +51,12 @@
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=powerbi&logoColor=white" />
+</p>
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-0078D4?style=for-the-badge)
 ![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-4CAF50?style=for-the-badge)
 ![XLOOKUP](https://img.shields.io/badge/XLOOKUP%20%2F%20VLOOKUP-FF6F00?style=for-the-badge)
 ![Data Validation](https://img.shields.io/badge/Data%20Validation-00897B?style=for-the-badge)
 ![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-E91E63?style=for-the-badge)
-
-</p>
 
 **Languages**
 <p align="left">
