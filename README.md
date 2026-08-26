@@ -116,7 +116,7 @@
 ---
 
 <p align="center">
-  <i>💡 Open to Data Analyst, BI Analyst, SQL Developer, and Web Developer roles — let's connect and build something great together!</i>
+  <i>💡 Open to Data Analyst, BI Analyst, SQL Developer, and Web Developer roles let's connect and build something great together!</i>
 </p>
 
 <p align="center">
