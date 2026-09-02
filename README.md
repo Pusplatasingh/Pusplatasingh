@@ -15,13 +15,13 @@
 
 ### 💫 About Me
 
-- 🎓 Computer Science & Engineering graduate who works comfortably on both sides of the stack — **turning data into decisions** and **building the interfaces people use every day**
+- 🎓 Computer Science & Engineering graduate who works comfortably on both sides of the stack **turning data into decisions** and **building the interfaces people use every day**
 - 📊 On the data side: I build Power BI dashboards and SQL-driven analysis that answer real business questions around revenue, churn, and profitability
-- 💻 On the dev side: I build web and desktop apps with HTML, CSS, JavaScript, Python, and Electron — from productivity tools to browser-based utilities
+- 💻 On the dev side: I build web and desktop apps with HTML, CSS, JavaScript, Python, and Electron from productivity tools to browser-based utilities
 - ☁️ Hands-on training in **cloud computing and Unix/Linux fundamentals** through Infosys
 - 🔍 Interested in Data Analytics, Business Intelligence, Data Visualization, and Frontend Development
 - 🚀 Currently seeking opportunities as a **Data Analyst, BI Analyst, SQL Developer, or Web Developer**
-- 🌱 Always learning — currently deepening my skills in PySpark and modern JS tooling
+- 🌱 Always learning currently deepening my skills in PySpark and modern JS tooling
 - ⚡ Fun fact: I like taking a business question all the way from a raw dataset to a shipped dashboard *or* a shipped app
 
 ---
